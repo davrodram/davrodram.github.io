@@ -1,0 +1,43 @@
+p, li {
+color: black;
+   font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1;
+}
+
+a:hover {
+    color:chartreuse
+}
+
+html {
+     background-color: #F5F6DE;
+  font-size:16px;
+    font-family: 'Karla', sans-serif; 
+}
+
+h1 {
+    margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-decoration: overline;
+    text-shadow: 2px 2px 1px #02211F;
+    font-size: 30px;
+    text-align: center;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #55CDC7;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+    
+
+}
+
+    img {
+  display: block;
+        width: 200px;
+  margin: 0 auto;
+        border: 5px solid black;
+}
